@@ -20,3 +20,7 @@ Yes I do. I have a bunch of relatives. My grand-parents have two sons and two da
 
 #####When you are a child, which of relatives did you see most often?
 According to me, my cousin, the daughter of my father's brother, was with me the most often. We used to hang out a lot and travel together. Unfortunately, she emigrated ten years ago. I couldn't forget the farewell that I woke up at 6 and rushed to the airport to see her off.
+
+###Accommodation
+#####Tell me about the kind of accomadation you live in?
+According to me, I live in the dorm with three Computer Science guy. It is small but well designed. There is a shower room, a toliet and a balcony to dry our clothes. It is well enough to meet whatever we need in our daily life.
