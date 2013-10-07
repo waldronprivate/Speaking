@@ -24,3 +24,6 @@ According to me, my cousin, the daughter of my father's brother, was with me the
 ###Accommodation
 #####Tell me about the kind of accomadation you live in?
 According to me, I live in the dorm with three Computer Science guy. It is small but well designed. There is a shower room, a toliet and a balcony to dry our clothes. It is well enough to meet whatever we need in our daily life.
+
+#####What are the benefits and drawbacks of the kind of housing you live in?
+According to me, 
